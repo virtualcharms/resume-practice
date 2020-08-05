@@ -1,19 +1,17 @@
 {
     "name": "Pam G",
-    "website": "https://virtualcharms.github.io/",
+    "website": "https://github.com/virtualcharms/",
     "linkedin": "https://www.linkedin.com/in/pamela-gilmour/",
-    "github": "virtualcharms",
     "email": "sodalitemix@gmail.com",
-    "resume": "",
     "proficientTechnologies": [
         "Javascript",
         "React",
-        "Node",
+        "Node"
     ],
     "otherSkills": [
         "Plants",
         "Dance",
         "Food",
-        "Wine",
+        "Wine"
     ]
 }
