@@ -1,0 +1,14 @@
+{
+  "name": "pamgilmourresume",
+  "version": "1.0.0",
+  "description": "Pam's resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pamela Gilmour",
+  "license": "ISC",
+  "bin": {
+    "your-command-here": "./index.js"
+  },
+}
