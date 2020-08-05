@@ -1,26 +1,19 @@
 {
-    "name": "Hammad Malik",
-    "website": "https://tomatohammado.github.io/",
-    "linkedin": "https://www.linkedin.com/in/tomatohammado/",
-    "github": "tomatohammado",
-    "email": "hammad.malik@generalassemb.ly",
-    "resume": "https://tomatohammado.github.io/assets/Malik-Hammad-Resume.pdf",
+    "name": "Pam G",
+    "website": "https://virtualcharms.github.io/",
+    "linkedin": "https://www.linkedin.com/in/pamela-gilmour/",
+    "github": "virtualcharms",
+    "email": "sodalitemix@gmail.com",
+    "resume": "",
     "proficientTechnologies": [
         "Javascript",
         "React",
-        "Vue",
         "Node",
-        "Express",
-        "Mongodb",
-        "PostgreSQL",
-        "Python",
-        "Django",
-        "Wordpress",
-        "Drupal"
     ],
     "otherSkills": [
-        "Unagi",
-        "Five Finger Fillet",
-        "Bridge"
+        "Plants",
+        "Dance",
+        "Food",
+        "Wine",
     ]
 }
